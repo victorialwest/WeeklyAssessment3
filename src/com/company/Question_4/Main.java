@@ -20,6 +20,19 @@ public class Main {
  public void array() {
     int position = 1;
     List<String> arrayList = new ArrayList();
+    arrayList.add("item 1");
+    arrayList.add("item 2");
+    arrayList.add("item 3");
+    arrayList.add("item 4");
+    arrayList.add("item 5");
+    arrayList.add("item 6");
+
+     for(int i = 0 ; i < arrayList.size(); i++) {
+
+
+     }
+     //i need to see an arraylist constructed to understand more, i get the basic concept and i know what its used for,
+     //but i need more help with seeing them set up, and how to initialize everything
 
 
  }

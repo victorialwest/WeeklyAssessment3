@@ -1,6 +1,10 @@
 package com.company.Question_3;
+import java.util.Scanner;
 
 public class Main {
+    private Scanner input = new Scanner(System.in);
+
+}
 
     public static void main(String[] args) {
         /*
@@ -10,6 +14,22 @@ public class Main {
         2. Recursion should be used if they hit the default.
         3. Instantiate the switch class in this main method and run the method you created.
          */
+        String grade = ;
 
-    }
+        switch("case"){
+            case 1:
+                System.out.println("case 1");
+                break;
+            case 2:
+                System.out.println("case 2");
+                break;
+            case 3:
+                System.out.println("case 3");
+                break;
+            case 4:
+                System.out.println("case 4");
+                break;
+            default:
+                System.out.println("not valid input, try 1-4");
+                main(String);    }
 }
