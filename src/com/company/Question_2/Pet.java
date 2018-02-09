@@ -1,6 +1,6 @@
 package com.company.Question_2;
 
-public class Main {
+public abstract class Pet {
 
     public static void main(String[] args) {
         /*

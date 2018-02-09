@@ -1,6 +1,6 @@
 package com.company.Question_1;
 
-public class Main {
+public class Pets {
 
     public static void main(String[] args) {
         /*

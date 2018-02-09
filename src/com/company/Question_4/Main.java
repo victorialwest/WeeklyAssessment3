@@ -1,6 +1,12 @@
 package com.company.Question_4;
+import java.util.Scanner;
+import java.util.ArrayList;
+
 
 public class Main {
+    private Scanner input = new Scanner(System.in);
+
+
 
     public static void main(String[] args) {
         /*
@@ -11,3 +17,9 @@ public class Main {
          */
     }
 }
+ public void array() {
+    int position = 1;
+    List<String> arrayList = new ArrayList();
+
+
+ }
